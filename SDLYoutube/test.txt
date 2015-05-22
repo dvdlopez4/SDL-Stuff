@@ -1,0 +1,7 @@
+The indigenous people of KakaTuka are well known around these woods:Continue1
+I'd recommend not confronting them as they may see you as a threat:Continue2
+(What will you do?):Eat shit3,Confront the natives4,Do nothing5
+(You attempt to eat shit, but find it extremely repulsive):Quit6
+What want do you?:Nothing5,I don't know...6
+....:Quit6
+The End:Press Zero to Quit
